@@ -1,4 +1,6 @@
 import XCTest
+import StoreKitTest
+
 @testable import StoreKitTestHelpers
 
 final class StoreKitTestHelpersTests: XCTestCase {
